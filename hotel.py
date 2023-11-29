@@ -1,4 +1,4 @@
-# Imprima todos os números exceto 13 com For
+# Imprima todos os números exceto 13 com For.
 
 for i in range(1, 21):
     if(i == 13):
