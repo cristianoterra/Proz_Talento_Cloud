@@ -11,7 +11,7 @@ def calculadora (num1, num2, operacao):
         return 0
 executar = True
 while (executar == True):
-    print("Qual operação você vai operar?")
+    print("Qual operação você deseja operar?")
     print("1: Soma 2: Subtração 3: Multiplicação 4: Divisão 0: Sair") 
     operacao = int (input())
     if (operacao < 0) or (operacao > 4):
