@@ -1,0 +1,44 @@
+body {
+    background-color: rgb(230, 173, 182)
+}
+
+* {
+    font-family: 'Open Sans', sans-serif;
+}
+
+h1 {
+    text-align: center;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+}
+
+figcaption {
+    text-align: center;
+    margin-top: 10px;
+    font-weight: bold;
+}
+
+.img-mercado-artesanato{
+    width: 550px;
+    height: 400px;
+}
+
+.marco-zero{
+    width: 550px;
+    height: 400px;
+}
+
+p {
+    font-size: 20px;
+}
+
+div {
+    text-align: center;
+}
+
+footer h3 {
+    text-align: center;
+}
